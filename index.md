@@ -7,3 +7,6 @@ And to add pics.
 My var = Selba
 ```
 
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+
